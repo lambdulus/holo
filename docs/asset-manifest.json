@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/holo/static/css/main.5b48f442.chunk.css",
-    "main.js": "/holo/static/js/main.daee980a.chunk.js",
-    "main.js.map": "/holo/static/js/main.daee980a.chunk.js.map",
+    "main.js": "/holo/static/js/main.e29f3e35.chunk.js",
+    "main.js.map": "/holo/static/js/main.e29f3e35.chunk.js.map",
     "runtime-main.js": "/holo/static/js/runtime-main.02fdb955.js",
     "runtime-main.js.map": "/holo/static/js/runtime-main.02fdb955.js.map",
     "static/css/2.b507a811.chunk.css": "/holo/static/css/2.b507a811.chunk.css",
-    "static/js/2.5d7c928f.chunk.js": "/holo/static/js/2.5d7c928f.chunk.js",
-    "static/js/2.5d7c928f.chunk.js.map": "/holo/static/js/2.5d7c928f.chunk.js.map",
+    "static/js/2.c992b649.chunk.js": "/holo/static/js/2.c992b649.chunk.js",
+    "static/js/2.c992b649.chunk.js.map": "/holo/static/js/2.c992b649.chunk.js.map",
     "index.html": "/holo/index.html",
-    "precache-manifest.dd0490b5d9e4d06425c200d2446a9035.js": "/holo/precache-manifest.dd0490b5d9e4d06425c200d2446a9035.js",
+    "precache-manifest.bb0a102d9ceb8ad4e139bf4a0f557295.js": "/holo/precache-manifest.bb0a102d9ceb8ad4e139bf4a0f557295.js",
     "service-worker.js": "/holo/service-worker.js",
     "static/css/2.b507a811.chunk.css.map": "/holo/static/css/2.b507a811.chunk.css.map",
     "static/css/main.5b48f442.chunk.css.map": "/holo/static/css/main.5b48f442.chunk.css.map",
-    "static/js/2.5d7c928f.chunk.js.LICENSE.txt": "/holo/static/js/2.5d7c928f.chunk.js.LICENSE.txt"
+    "static/js/2.c992b649.chunk.js.LICENSE.txt": "/holo/static/js/2.c992b649.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.02fdb955.js",
     "static/css/2.b507a811.chunk.css",
-    "static/js/2.5d7c928f.chunk.js",
+    "static/js/2.c992b649.chunk.js",
     "static/css/main.5b48f442.chunk.css",
-    "static/js/main.daee980a.chunk.js"
+    "static/js/main.e29f3e35.chunk.js"
   ]
 }
