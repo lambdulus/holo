@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/holo/static/css/main.fcb09c3a.chunk.css",
-    "main.js": "/holo/static/js/main.59f588cf.chunk.js",
-    "main.js.map": "/holo/static/js/main.59f588cf.chunk.js.map",
+    "main.js": "/holo/static/js/main.73ef640c.chunk.js",
+    "main.js.map": "/holo/static/js/main.73ef640c.chunk.js.map",
     "runtime-main.js": "/holo/static/js/runtime-main.02fdb955.js",
     "runtime-main.js.map": "/holo/static/js/runtime-main.02fdb955.js.map",
     "static/css/2.b507a811.chunk.css": "/holo/static/css/2.b507a811.chunk.css",
     "static/js/2.91a8241d.chunk.js": "/holo/static/js/2.91a8241d.chunk.js",
     "static/js/2.91a8241d.chunk.js.map": "/holo/static/js/2.91a8241d.chunk.js.map",
     "index.html": "/holo/index.html",
-    "precache-manifest.fbdd18d7e0d8cfdd0464d6d0e5d6bf5e.js": "/holo/precache-manifest.fbdd18d7e0d8cfdd0464d6d0e5d6bf5e.js",
+    "precache-manifest.51c8015c3cf205b9832e3e80bbf05c1f.js": "/holo/precache-manifest.51c8015c3cf205b9832e3e80bbf05c1f.js",
     "service-worker.js": "/holo/service-worker.js",
     "static/css/2.b507a811.chunk.css.map": "/holo/static/css/2.b507a811.chunk.css.map",
     "static/css/main.fcb09c3a.chunk.css.map": "/holo/static/css/main.fcb09c3a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b507a811.chunk.css",
     "static/js/2.91a8241d.chunk.js",
     "static/css/main.fcb09c3a.chunk.css",
-    "static/js/main.59f588cf.chunk.js"
+    "static/js/main.73ef640c.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19795644ae76353eb5351d292cb50cab",
+    "revision": "683e13be26de9777aee068d731db26b9",
     "url": "/holo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/holo/static/css/2.b507a811.chunk.css"
   },
   {
-    "revision": "3fcf6257d3c9364e20fe",
+    "revision": "93ec5097b0fe73ab84aa",
     "url": "/holo/static/css/main.fcb09c3a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/holo/static/js/2.91a8241d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fcf6257d3c9364e20fe",
-    "url": "/holo/static/js/main.59f588cf.chunk.js"
+    "revision": "93ec5097b0fe73ab84aa",
+    "url": "/holo/static/js/main.73ef640c.chunk.js"
   },
   {
     "revision": "314050cf25b24cb95f1e",
